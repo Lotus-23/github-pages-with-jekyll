@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bienvenido a mi blog
 
-I'm glad you are here. I plan to talk about ...
+Este es un blog de prueba creado con GitPages y Jekyll
